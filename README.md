@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I Am Ali Samir</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://alisamirali.github.io/Ali-Samir-Portfolio/](https://alisamirali.github.io/Ali-Samir-Portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://alisamirali.github.io/Ali-Samir-Portfolio/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/ali-samir-ali/](https://www.linkedin.com/in/ali-samir-ali/)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/ali-samir-ali/)
 
 - 📫 How to reach me **dev.alisamirali@gmail.com**
 
