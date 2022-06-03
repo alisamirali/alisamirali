@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I’m Ali Samir ❤</h1> 
-<h3 align="center">Full Stack Web Developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Front-End+Developer;Back-End+Developer;Web+Developer;Software+Developer)](https://git.io/typing-svg)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://alisamirali.github.io/Ali-Samir-Portfolio/)
 
