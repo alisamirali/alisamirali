@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I Am Ali Samir</h1>
+<h1 align="center">Hi, I Am Ali Samir \xF0\x9F\x98\x8D</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://alisamirali.github.io/Ali-Samir-Portfolio/)
