@@ -22,3 +22,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alisamirali&theme=github_dark) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alisamirali&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alisamirali&theme=github_dark)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?alisamirali=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
