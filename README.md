@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I’m Ali Samir ❤</h1> 
 
-<h2 align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Front-End+Developer;Back-End+Developer;Web+Developer;Software+Developer)](https://git.io/typing-svg)
-</h2>
+<h4 align="center">
+  Full Stack Web Developer | Interested in Cyber Security
+</h4>
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://alisamirali.github.io/Ali-Samir-Portfolio/)
 
