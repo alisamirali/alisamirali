@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://alisamirali.github.io/Ali-Samir-Portfolio/)
 
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/ali-samir-ali/)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/ali-samir-ali/), [Facebokk](https://www.facebook.com/Ali.Samir.Ali.Zaki)
 
 - 📫 How to reach me **dev.alisamirali@gmail.com**
 
