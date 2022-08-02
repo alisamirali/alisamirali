@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/ali-samir-ali/), [Facebook](https://www.facebook.com/Ali.Samir.Ali.Zaki), [Telegram](https://t.me/phoenixcoding)
 
-- 📫 How to reach me **dev.alisamirali@gmail.com**
+- 📫 How to reach me **alisamir.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
