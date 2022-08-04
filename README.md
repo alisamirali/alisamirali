@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Ali Samir ❤</h1> 
+<h1 align="center">Hi, I’m Ali Samir</h1> 
 
 <h3 align="center">
   Full Stack Web Developer | Interested in Cyber Security
