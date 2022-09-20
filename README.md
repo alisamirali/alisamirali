@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Ali Samir</h1> 
 
 <h3 align="center">
-  Full Stack Web Developer | Interested in Cyber Security
+  Web Developer | Undergraduate Software Engineer
 </h3>
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://alisamirali.github.io/Ali-Samir/)
