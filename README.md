@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://alisamirali.github.io/Ali-Samir/)
 
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/ali-samir-ali/), [Facebook](https://www.facebook.com/Ali.Samir.Ali.Zaki), [Telegram](https://t.me/phoenixcoding)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/ali-samir-ali/), [Facebook](https://www.facebook.com/Ali.Samir.Ali.Zaki), [Telegram](https://t.me/hovercoding)
 
 - 📫 How to reach me **alisamir.dev@gmail.com**
 
