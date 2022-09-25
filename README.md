@@ -10,8 +10,8 @@
 
 - 📫 How to reach me **alisamir.dev@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
-<p lign="center">
+<h3 align="center">Connect Me</h3>
+<p align="center">
 <a href="https://twitter.com/ali_samir_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ali_samir_21" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ali-samir-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-samir-ali" height="30" width="40" /></a>
 <a href="https://fb.com/ali.samir.ali.zaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali.samir.ali.zaki" height="30" width="40" /></a>
