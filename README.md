@@ -4,8 +4,6 @@
   Web Developer | Undergraduate Software Engineer
 </h3>
 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
 - 👨‍💻 All of my projects are available at [My Portfolio](https://alisamirali.github.io/Ali-Samir/)
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/ali-samir-ali/), [Facebook](https://www.facebook.com/Ali.Samir.Ali.Zaki), [Telegram](https://t.me/hovercoding)
