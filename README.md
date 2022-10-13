@@ -4,7 +4,7 @@
   Web Developer | Undergraduate Software Engineer
 </h3>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://alisamirali.github.io/Ali-Samir/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://ali-samir-dev.vercel.app/)
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/ali-samir-ali/), [Facebook](https://www.facebook.com/Ali.Samir.Ali.Zaki), [Telegram](https://t.me/hovercoding)
 
