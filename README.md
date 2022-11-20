@@ -1,16 +1,16 @@
 <h1 align="center">Hi, I’m Ali Samir</h1> 
 
 <h3 align="center">
-  Web Developer | Undergraduate Software Engineer
+  Full Stack Web Developer | Undergraduate Software Engineer
 </h3>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://ali-samir-dev.vercel.app/)
+- 👨‍💻 All of my projects are available in my [Portfolio](https://ali-samir-dev.vercel.app/)
 
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/ali-samir-ali/), [Facebook](https://www.facebook.com/Ali.Samir.Ali.Zaki), [Telegram](https://t.me/hovercoding)
+- 📝 I usually write useful articles on [LinkedIn](https://www.linkedin.com/in/ali-samir-ali/), [Facebook](https://www.facebook.com/Ali.Samir.Ali.Zaki), [Telegram](https://t.me/hovercoding)
 
 - 📫 How to reach me **alisamir.dev@gmail.com**
 
-<h3 align="left">Follow Me</h3>
+<h3 align="left">you can follow me on:</h3>
 <p align="left">
 <a href="https://twitter.com/ali_samir_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ali_samir_21" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ali-samir-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-samir-ali" height="30" width="40" /></a>
