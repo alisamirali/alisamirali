@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I’m Ali Samir</h1> 
 
 <h3 align="center">
-  Full Stack Web Developer | Undergraduate Software Engineer
+  Full Stack Developer | Undergraduate Software Engineer
 </h3>
 
 - 👨‍💻 All of my projects are available in my [Portfolio](https://ali-samir-dev.vercel.app/)
 
-- 📝 I usually write useful articles on [LinkedIn](https://www.linkedin.com/in/ali-samir-ali/), [Facebook](https://www.facebook.com/Ali.Samir.Ali.Zaki), [Telegram](https://t.me/hovercoding)
+- 📝 I usually write useful articles on [LinkedIn](https://www.linkedin.com/in/ali-samir-ali/), [Facebook](https://www.facebook.com/Ali.Samir.Ali.Zaki), [Telegram](https://t.me/dev_ali_samir)
 
 - 📫 How to reach me **alisamir.dev@gmail.com**
 
