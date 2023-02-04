@@ -1,3 +1,5 @@
+![Yellow Monochrome Photo LinkedIn Banner](https://user-images.githubusercontent.com/62913154/216781524-3005b08a-849b-48c4-9874-06675a008b68.png)
+
 <h1 align="center">Hi 👋, I'm Ali Samir</h1>
 <h3 align="center">Software Engineer</h3>
 
