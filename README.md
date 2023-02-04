@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Samir</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alisamirali" alt="alisamirali" /></a> </p>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/ali-samir-ali/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
