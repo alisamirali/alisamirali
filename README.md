@@ -20,6 +20,7 @@
 
 ✔ In addition to programming, I love traveling, staying fit, and helping others in the community. I am a believer in financial independence.
 
+![Yellow Monochrome Photo LinkedIn Banner](https://user-images.githubusercontent.com/62913154/235600746-073144f0-3d59-4445-af06-573e9f1464a3.png)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dev-alisamir" target="_blank">
