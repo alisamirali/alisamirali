@@ -4,7 +4,7 @@
 
 
 ## 🚀 About Me
-📌 I am a front-end developer with a passion for creating engaging web experiences. I specialize in React.js, Next.js, Angular, and Svelte.
+📌 I am a Frontend Developer with a passion for creating engaging web experiences. I specialize in React.js, Next.js, Angular, and Svelte.
 
 ⚡ I am always looking to stay up-to-date on the latest technologies and techniques. So I can develop the best solutions for my clients. I am also an avid learner who loves to take on new challenges and explore different problem-solving approaches.
 
