@@ -1,28 +1,33 @@
-# Hi, I'm Ali Samir! 👋
+<h1 align="center">
+Hi there, 👋
+</h1>
 
-### Software Engineer
+<h2 align="center">
+  I’m Ali Samir, a Software Engineer
+</h2>
 
-
-## 🚀 About Me
-📌 I am a Frontend Developer with a passion for creating engaging web experiences. I specialize in React.js, Next.js, Angular, and Svelte.
-
-⚡ I am always looking to stay up-to-date on the latest technologies and techniques. So I can develop the best solutions for my clients. I am also an avid learner who loves to take on new challenges and explore different problem-solving approaches.
-
-💼 I am employed at a company as a junior front-end developer, where I am responsible for developing user interfaces that are both aesthetically pleasing and highly functional. My primary focus is ensuring the user experience is intuitive and enjoyable while meeting the project goals.
-
-⚡ I believe in collaboration and open communication between team members to ensure that projects are completed successfully. I enjoy working with other developers to brainstorm ideas, troubleshoot issues, and create solutions that meet the needs of all stakeholders. 
-
-⚡ My strong skills are my creativity, being able to gather clients’ requirements and translate those into an engaging, effective, and unique website.
-
-⚡ My key skills include HTML, CSS, JavaScript, ESNext, jQuery, Bootstrap, SASS, Tailwind CSS, Responsive Design, React, Redux, Next.js, Svelte, SvelteKit, Angular, TypeScript, Axios, Node.js, Express, MongoDB, SQL, Git & GitHub, SEO, Java, and Python.
-
-⚡ I always seek new opportunities to grow my skill set and contribute to successful projects. If you're looking for a motivated junior front-end developer with a passion for creating great web experiences, then please don't hesitate to reach out!
-
-⚡ In addition to programming, I love traveling, staying fit, and helping others in the community. I am a believer in financial independence.
+### 📄 About Me
+<hr />
+📌 I am a Frontend Developer with a passion for creating engaging web experiences, specializing in React.js, Next.js, Angular, and Svelte.
+<br/> <br/>
+⚡ Constantly staying up-to-date with the latest technologies and techniques, I aim to develop the best solutions for my clients. An avid learner, I love to embrace new challenges and explore different problem-solving approaches.
+<br/> <br/>
+💼 Currently, I am employed as a Frontend Developer, where I am responsible for developing aesthetically pleasing and highly functional user interfaces. My primary focus is ensuring an intuitive and enjoyable user experience while meeting project goals.
+<br/> <br/>
+⚡ I believe in collaboration and open communication among team members to ensure successful project completion. Working with other developers to brainstorm ideas, troubleshoot issues, and create solutions that meet stakeholder needs is something I genuinely enjoy.
+<br/> <br/>
+⚡ My strength lies in my creativity and the ability to gather clients’ requirements, translating them into engaging, effective, and unique websites.
+<br/> <br/>
+⚡ Key skills I bring to the table include HTML, CSS, JavaScript, ESNext, jQuery, Bootstrap, SASS, Tailwind CSS, Responsive Design, React, Redux, Next.js, Svelte, SvelteKit, Angular, TypeScript, Axios, Node.js, Express, MongoDB, SQL, Git & GitHub, SEO, Java, and Python.
+<br/> <br/>
+⚡ I'm always looking for new opportunities to grow my skill set and contribute to successful projects. If you're in search of a motivated junior front-end developer with a passion for creating excellent web experiences, please don't hesitate to reach out!
+<br/> <br/>
+⚡ Beyond programming, I love traveling, staying fit, and contributing to the community. I firmly believe in financial independence.
+<hr />
 
 ![Yellow Monochrome Photo LinkedIn Banner](https://user-images.githubusercontent.com/62913154/235600746-073144f0-3d59-4445-af06-573e9f1464a3.png)
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/dev-alisamir" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
