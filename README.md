@@ -10,7 +10,7 @@
 
 💼 I am employed at a company as a junior front-end developer, where I am responsible for developing user interfaces that are both aesthetically pleasing and highly functional. My primary focus is ensuring the user experience is intuitive and enjoyable while meeting the project goals.
 
-✔ I believe in collaboration and open communication between team members to ensure that projects are completed successfully. I enjoy working with other developers to brainstorm ideas, troubleshoot issues, and create solutions that meet the needs of all stakeholders. 
+⚡ I believe in collaboration and open communication between team members to ensure that projects are completed successfully. I enjoy working with other developers to brainstorm ideas, troubleshoot issues, and create solutions that meet the needs of all stakeholders. 
 
 ⚡ My strong skills are my creativity, being able to gather clients’ requirements and translate those into an engaging, effective, and unique website.
 
@@ -18,7 +18,7 @@
 
 ⚡ I always seek new opportunities to grow my skill set and contribute to successful projects. If you're looking for a motivated junior front-end developer with a passion for creating great web experiences, then please don't hesitate to reach out!
 
-✔ In addition to programming, I love traveling, staying fit, and helping others in the community. I am a believer in financial independence.
+⚡ In addition to programming, I love traveling, staying fit, and helping others in the community. I am a believer in financial independence.
 
 ![Yellow Monochrome Photo LinkedIn Banner](https://user-images.githubusercontent.com/62913154/235600746-073144f0-3d59-4445-af06-573e9f1464a3.png)
 
@@ -44,7 +44,7 @@
   <a href="https://medium.com/@dev.alisamir" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
-  <a href="https://t.me/dev_ali_samir" target="_blank">
+  <a href="https://t.me/dev_alisamir" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
   <a href="mailto:alisamir.dev@gmail.com" target="_blank">
