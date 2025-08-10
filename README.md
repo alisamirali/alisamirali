@@ -45,13 +45,5 @@ With experience across **frontend, backend, and mobile development**, I bring id
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alisamir&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisamir&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
-</p>
-
----
-
 > _"Code is like humor — when you have to explain it, it’s bad."_  
 — **Ali Samir**
