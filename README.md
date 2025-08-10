@@ -1,61 +1,57 @@
-<h1>Software Engineer | Full Stack Developer | React Native Developer</h1>
+<!-- Header -->
+<h2 align="center">👋 Hey there, I'm <span style="color:#00bfff">Ali Samir</span></h2>
+<h3 align="center">🚀 Software Engineer | Full Stack Developer</h3>
 
-### 📄 About Me
-<hr />
-I'm a Software Engineer with a fervor for crafting robust and scalable web applications. My expertise spans both frontend and backend technologies, enabling me to deliver end-to-end solutions tailored to meet the diverse needs of clients.
-<br/> <br/>
-⚡ I'm committed to staying abreast of the latest advancements in technology, ensuring that I utilize the most efficient tools and methodologies to drive project success. As a perpetual learner, I thrive on tackling new challenges and experimenting with innovative approaches to problem-solving.
-<br/> <br/>
-💼 Currently, I'm employed at a company where I play a pivotal role in developing comprehensive web applications. My responsibilities extend beyond frontend development to encompass backend logic, database management, and system architecture design. I prioritize creating seamless user experiences while adhering to project objectives and timelines.
-<br/> <br/>
-🤝 Collaboration is at the core of my workflow, and I thrive in environments that foster open communication and teamwork. Whether it's brainstorming ideas with fellow developers or coordinating with stakeholders, I believe that collective effort is key to delivering exceptional results.
-<br/> <br/>
-⚡ My strengths lie in my ability to conceptualize and implement dynamic solutions that bridge the gap between frontend aesthetics and backend functionality.
-<br/> <br/>
-⚙️ My skill set encompasses a wide range of technologies, including but not limited to React.js, Next.js, Qwik, Svelte, SvelteKit, JavaScript, TypeScript, Node.js, MongoDB, Express.js, NestJS, and React Native.
-<br/> <br/>
-🌐 For a deeper insight into my work and services, feel free to explore my website: https://alisamir.vercel.app
-<br /> <br />
-🌟 Beyond programming, I'm passionate about exploring the world through travel, maintaining a healthy lifestyle, and giving back to the community. I also strongly advocate for financial independence as a means of empowering individuals to achieve their goals.
-<br /> <br />
-📩 If you're interested in learning more about how I can contribute to your projects or have any inquiries, please don't hesitate to reach out via email at <a href="mailto:alisamir.dev@gmail.com">alisamir.dev@gmail.com</a>
-<br /> <br />
-Warm regards, 
-<br />
-Ali Samir
+---
 
-<hr />
+## 💡 About Me
+I'm a passionate **Software Engineer** who loves building **robust, scalable, and user-friendly applications**.  
+With experience across **frontend, backend, and mobile development**, I bring ideas to life — from **concept to deployment**.
 
-<div>
-  <a href="https://www.linkedin.com/in/dev-alisamir" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/alisamir.dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/alisamir.dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  </a>
-  <a href="https://twitter.com/dev_alisamir" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/@The_Dev_Guide" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.behance.net/alisamirali" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
-  </a>
-  <a href="https://dev.to/alisamir" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
-  </a>
-  <a href="https://medium.com/@dev.alisamir" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-  <a href="https://t.me/the_developer_guide" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  <a href="mailto:alisamir.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+- 🔭 Currently building **next-level web & mobile apps** at a fast-growing company.  
+- ⚡ Always learning, experimenting, and staying ahead in the tech world.  
+- 🎯 Obsessed with **clean code, great UI/UX, and performance optimization**.  
+- 🤝 Firm believer that **collaboration** is the secret ingredient to building great products.  
+
+---
+
+## 🛠️ Tech Stack
+**Frontend:** React.js, Next.js, Qwik, Svelte, SvelteKit, JavaScript, TypeScript, Tailwind CSS, Sass, Angular, Remix  
+**Backend:** Node.js, Express.js, NestJS, MongoDB, REST APIs, GraphQL  
+**Mobile:** React Native  
+**Other:** Git, CI/CD, Cloud Deployment, Design Patterns, Clean Architecture  
+
+---
+
+## 🌐 Portfolio & Content
+💻 Explore my portfolio: [alisamir.vercel.app](https://alisamir.vercel.app)  
+📚 I also create daily dev content, tutorials, and tips on **LinkedIn, YouTube, and Telegram**.
+
+---
+
+## 📫 Let’s Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/dev-alisamir"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=Linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.instagram.com/alisamir.dev"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.facebook.com/alisamir.dev"><img src="https://img.shields.io/badge/-Facebook-1877F2?logo=Facebook&logoColor=white&style=for-the-badge"></a>
+  <a href="https://twitter.com/dev_alisamir"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.youtube.com/@The_Dev_Guide"><img src="https://img.shields.io/badge/-YouTube-FF0000?logo=YouTube&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.behance.net/alisamirali"><img src="https://img.shields.io/badge/-Behance-1769ff?logo=Behance&logoColor=white&style=for-the-badge"></a>
+  <a href="https://dev.to/alisamir"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?logo=dev.to&logoColor=white&style=for-the-badge"></a>
+  <a href="https://medium.com/@dev.alisamir"><img src="https://img.shields.io/badge/-Medium-12100E?logo=Medium&logoColor=white&style=for-the-badge"></a>
+  <a href="https://t.me/the_developer_guide"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=Telegram&logoColor=white&style=for-the-badge"></a>
+  <a href="mailto:alisamir.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&logoColor=white&style=for-the-badge"></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alisamir&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisamir&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
+</p>
+
+---
+
+> _"Code is like humor — when you have to explain it, it’s bad."_  
+— **Ali Samir**
