@@ -42,8 +42,3 @@ With experience across **frontend, backend, and mobile development**, I bring id
   <a href="https://t.me/the_developer_guide"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=Telegram&logoColor=white&style=for-the-badge"></a>
   <a href="mailto:alisamir.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&logoColor=white&style=for-the-badge"></a>
 </p>
-
----
-
-> _"Code is like humor — when you have to explain it, it’s bad."_  
-— **Ali Samir**
